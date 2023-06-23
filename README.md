@@ -1,2 +1,2 @@
 # Churn-Prediction-using-PCA-DataScience-project
-This project predicts customer churn in a bank using Principal Component Analysis (PCA). This can be helpful for churn prediction, as it can help to identify the most important features that contribute to customer churn.
+This project predicts customer churn in a bank using Principal Component Analysis (PCA). PCA is a dimensionality reduction technique that can be used to reduce the number of features in a dataset while preserving as much of the information as possible. This can be helpful for churn prediction, as it can help to identify the most important features that contribute to customer churn.
